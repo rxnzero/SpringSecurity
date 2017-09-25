@@ -9,4 +9,4 @@
 	<tr><td>비밀번호:</td><td><input type='password' name='loginpwd'/></td></tr>
 	<tr><td colspan='2'><input name="submit" type="submit" value="Login"/></td></tr>
 </table>
-</form></body></html>
+</form></body></html> 
